@@ -138,7 +138,7 @@ body {
 
 .her > img {
   height: 95%;
-  width: auto;
+  width: 100%;
   object-fit: contain;
 }
 
